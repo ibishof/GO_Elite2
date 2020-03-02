@@ -73,9 +73,9 @@ $ python2 GO_Elite.py --species Hs \
 
 1)"fileName"  This is the name of .csv table that contains protein/gene names. (**set by user**)
 
-2)"filePath" This sets the working directory. (**set by nephele?**)
+2)"filePath" This sets the working directory.
 
-3)"outFilename"  This is the name of the folder where the data will be saved. Current this is set up to be file/path/outfilename . Not sure how exactly this will work in the context of nephele. (**set by nephele?**)
+3)"outFilename"  This is the name of the folder where the data will be saved. Current this is set up to be file/path/outfilename . Not sure how exactly this will work in the context of nephele.
 
 4)"GOeliteFolder" the location of the GO-elite.py file. (**constant**)
 
