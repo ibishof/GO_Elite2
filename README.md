@@ -48,7 +48,7 @@ Alternatively you can run straight from command line with the following.
 
 
 
-Not sure what this is?
+Example of command
 ```sh
 $ python2 GO_Elite.py --species Hs \
 --mod Ensembl \
